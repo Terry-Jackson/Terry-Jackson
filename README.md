@@ -1,1 +1,1 @@
-### Hi, I'm Terry, an aspiring IT Professional 
+### Hi, I'm Terry, an aspiring IT Professional 😀
