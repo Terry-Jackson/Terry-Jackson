@@ -1,1 +1,1 @@
-### Hi there my name is Terry
+### Hi, I'm Terry, an aspiring IT Professional 
