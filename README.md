@@ -7,4 +7,4 @@
 
 - <b>Microsoft Azure</b>
 
-   - https://github.com/Terry-Jackson/Active-Directory.git
+   - [Configuring On-premises Active Directory within Azure VMs]
