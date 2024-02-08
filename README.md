@@ -1,3 +1,12 @@
+
+![Binary-Data-Flow](https://github.com/Terry-Jackson/Terry-Jackson/assets/155121596/520e6c57-86fa-43ef-8fb6-a955bfc35eaa)
+
+
+
+
+
+
+
 ### Hi, I'm Terry, an IT Professional</a>☺</h1>
 <br>
 <h2>👨‍💻 Information Technology Projects:</h2>
