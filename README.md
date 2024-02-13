@@ -7,7 +7,7 @@
 
 
 
-### Hi, I'm Terry, an IT Professional</a>☺</h1>
+<h1>Hi, I'm Terry, an <a href="https://linkedin.com/in/terry-jackson-895a9313b">IT Professional</a>☺</h1>
 <br>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
