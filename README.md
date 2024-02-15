@@ -25,7 +25,7 @@
   
   - <h2>🤳Connect with me:</h2>
 
-https://www.linkedin.com/in/Terry-Jackson
+
 
 
 
