@@ -25,8 +25,8 @@
   
   - <h2>🤳Connect with me:</h2>
 
-      [<img align="left" alt="terry | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-        https://linkedin.com/in/terry-jackson-895a9313b
+      <img align="left" alt="terry-jackson-895a9313b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+       <https://linkedin.com/in/terry-jackson-895a9313b>
 
 
 
