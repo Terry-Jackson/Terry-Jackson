@@ -18,8 +18,9 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Terry-Jackson/Active-Directory.git)
-  
-  <br>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com//azure-network-protocols)
+
+   <br>
   <br>
   <br>
   
